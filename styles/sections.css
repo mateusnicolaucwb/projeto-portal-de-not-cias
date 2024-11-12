@@ -104,7 +104,9 @@ aside {
     margin-top: 8px;
   }
 
-  width: 72px;
-  aspect-ratio: 1/1;
-  object-fit: cover;
+  img {
+    width: 72px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+  }
 }
